@@ -1,7 +1,8 @@
 ---
-title: Welcome to My Quartz Vault
+title: Welcome
 ---
 
-# Hello World
+# Welcome
 
-This is a fresh Obsidian vault hosted with Quartz.
+This is my digital garden, a collection of evergreen notes and thoughts.
+
